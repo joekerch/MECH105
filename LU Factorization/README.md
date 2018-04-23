@@ -1,4 +1,4 @@
-luFactor is a function that performs LU Factorization on an inputed square matrix of coeffecients. 
+luFactor is a function that performs LU decomposition on an inputed square matrix of coeffecients with pivoting. 
 luFactor derives matrices L, U and P such that [P]*[A]=[L]*[U].
 
 Inputs:

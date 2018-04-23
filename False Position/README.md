@@ -1,7 +1,8 @@
 falsePosition is a function that estimates a single root of a chosen 
 function using false positioning, which is a bracketing method.
 
-Inputs:* func = the function being evaluated
+Inputs:
+* func = the function being evaluated
 * xL = the lower guess
 * xU = the upper guess
 * es = desired relative error (defaults to 0.0001%)

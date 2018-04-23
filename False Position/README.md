@@ -1,3 +1,4 @@
+#False Position
 falsePosition is a function that estimates a single root of an inputed function using false positioning, which is a closed bracketing method.
 
 Inputs:
